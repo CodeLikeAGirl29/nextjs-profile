@@ -27,7 +27,7 @@ const BlogPost = ({ post }) => {
         <div className="mt-10 flex flex-col">
           <img
             className="w-full h-96 rounded-lg shadow-lg object-cover"
-            src={post.image}></img>
+            src={post.image} alt="round pic"></img>
           <h1
             ref={textOne}
             className="mt-10 text-4xl mob:text-2xl laptop:text-6xl text-bold">
