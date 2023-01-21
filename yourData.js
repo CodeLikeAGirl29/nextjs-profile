@@ -16,7 +16,7 @@ export default {
 
   // End Header Details -----------------------
 
-  // Work Section ------------------------
+  // Projects Section ------------------------
   projects: [
     {
       title: "Jobspace", //Project Title - Add Your Project Title Here
@@ -41,7 +41,7 @@ export default {
       description: "React frontend site displaying my projects from Scrimba. 📁",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://res.cloudinary.com/codelikeagirl29/image/upload/v1667487431/projects/ScreenShot_Tool_-20221103105543_stmhyk.png",
+        "https://res.cloudinary.com/codelikeagirl29/image/upload/v1667487431/projects/scrimba-projects.png",
       //Project URL - Add Your Project Url Here
       url: "https://my-scrimba-challenges.netlify.app/",
     },
