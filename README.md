@@ -21,8 +21,8 @@ A clean and simple portfolio template built with HTML, CSS and React.js.
 ### Setup
 
 ```shell
-git clone https://github.com/codelikeagirl29/react-portfolio.git
-cd react-portfolio
+git clone https://github.com/codelikeagirl29/nextjs-profile.git
+cd nextjs-profile
 ```
 and then to install and view in browser.
 
