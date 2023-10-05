@@ -3,8 +3,8 @@ export default {
   name: "lindseyk",
   headerTaglineOne: "Hi, 👋",
   headerTaglineTwo: "I'm Lindsey",
-  headerTaglineThree: "Web Developer",
-  headerTaglineFour: " based in Raleigh, NC",
+  headerTaglineThree: "Frontend Developer",
+  headerTaglineFour: " based in Fort Walton Beach, Florida",
 
   socials: [
     { title: "Github", link: "https://github.com/codelikeagirl29" },
